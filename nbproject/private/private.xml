@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dto/ItemDto.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/entity/ItemEntity.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/DaoFactory.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/custom/impl/ItemDaoImpl.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/custom/ItemDao.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/CrudUtil.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/CrudDao.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/controller/ItemController.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/service/SuperService.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/view/OrderForm.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/service/custom/impl/ItemServiceImpl.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/view/itemForm.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/Main.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/service/ServiceFactory.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/dao/SuperDao.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/db/DBConnection.java</file>
+            <file>file:/D:/Layerd_Architech/layerdAtch/src/edu/ijse/layerd/service/custom/ItemService.java</file>
+        </group>
+    </open-files>
+</project-private>
